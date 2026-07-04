@@ -28,7 +28,7 @@ To-Do-Manager/
 1. Clone the repository:
 
 ```bash id="y8m3hf"
-git clone https://github.com/your-username/to-do-manager.git
+git clone https://github.com/CodeWithPurnendra/To-Do-Manager.git
 ```
 
 2. Navigate to the project folder:
