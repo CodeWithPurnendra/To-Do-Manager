@@ -27,19 +27,19 @@ To-Do-Manager/
 
 1. Clone the repository:
 
-```bash id="y8m3hf"
+```bash
 git clone https://github.com/CodeWithPurnendra/To-Do-Manager.git
 ```
 
 2. Navigate to the project folder:
 
-```bash id="r2jd6x"
+```bash
 cd To-Do-Manager
 ```
 
 3. Run the application:
 
-```bash id="v0q1zs"
+```bash 
 python To-Do-Manager.py
 ```
 
@@ -57,7 +57,7 @@ python To-Do-Manager.py
 
 ### Adding a Task
 
-```text id="u6r9ln"
+```text
 Choose:
 (1) Add Task
 (2) Read Task
@@ -72,7 +72,7 @@ Tasks Saved successfully
 
 ### Viewing Tasks
 
-```text id="a3j5px"
+```text 
 ---- Your Saved Tasks ----
 
 Complete Python assignment
